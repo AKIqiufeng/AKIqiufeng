@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm AKIqiufeng 👋
 
 <!--
 **AKIqiufeng/AKIqiufeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[今日名言](https://readme-daily-quotes.vercel.app/api?theme=light&category=programming)
+## About me
+- 🎓 21 Year-old College Student.
+- ✨ A Steadfast Idealist.
+- 🌱 I’m currently learning Everything I like
+- 😄 Pronouns: He / Him
+- 📫 How to reach me: akiqiufeng@163.com
 ![亮色](https://raw.githubusercontent.com/AKIqiufeng/AKIqiufeng/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://profile-counter.glitch.me/AKIqiufeng/count.svg)

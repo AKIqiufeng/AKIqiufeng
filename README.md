@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ✨ A Steadfast Idealist.
 - 🌱 I’m currently learning Everything I like
 - 😄 Pronouns: He / Him
-- 📫 How to reach me: akiqiufeng@163.com
+- 📫 How to reach me: [email](akiqiufeng@163.com)
 ![亮色](https://raw.githubusercontent.com/AKIqiufeng/AKIqiufeng/output/github-contribution-grid-snake.svg)
 ---
 #### You are my ![Visitor Count](https://profile-counter.glitch.me/AKIqiufeng/count.svg)th visitor
